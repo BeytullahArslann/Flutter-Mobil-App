@@ -1,6 +1,5 @@
-# mobilproje2
+# Flutter Mobil App
 
-mobilProje
 
 ## Getting Started
 
