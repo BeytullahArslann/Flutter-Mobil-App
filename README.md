@@ -1,8 +1,6 @@
-# Flutter Mobil App
+# mobilproje2
 
 mobilProje
-
-Galeri , Todo , Profil sayfalari iceren basit mobil app
 
 ## Getting Started
 
